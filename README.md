@@ -1,7 +1,7 @@
 ### Hi 👋 , I´m Lutero Elavoco. Welcome to my Github :raised_hands: 
 
 
-![](intro.jpg)
+![](https://raw.githubusercontent.com/cientista1/cientista1/master/programador.jpg)
 
 
 
